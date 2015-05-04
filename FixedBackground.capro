@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CaptureProfile
+  Type="Image"
+  ShapeTimeSpan="10000"
+  AutoAdjust="false"
+  BackgroundType="GradientNWSE"
+  BackgroundColor="#f0e68c"
+  BackgroundColorAlt="#ff00ff">
+  <Shapes />
+</CaptureProfile>
